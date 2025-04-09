@@ -1,3 +1,5 @@
+print("Script carregado com sucesso!")
+
 --[[
     Script Hipotético para Anime Power Simulator
     Inclui GUI com botão "Start", menu recolhível e seleção de mundo/mobs via dropdown.
