@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/JoaoVPalandi/animepower/blob/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoaoVPalandi/animepower/refs/heads/main/script.lua"))()
